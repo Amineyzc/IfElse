@@ -6,6 +6,7 @@ public class BMIassigement {
         int num =-122;
         if (num>=0) {
             System.out.println("Number is positive");
+            //some commit is here
 
         }
 
