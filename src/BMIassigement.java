@@ -7,6 +7,7 @@ public class BMIassigement {
         if (num>=0) {
             System.out.println("Number is positive");
             //some commit is here
+            //second push is here
 
         }
 
